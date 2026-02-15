@@ -82,8 +82,8 @@ This profile includes:
 
 ## 📫 Contact
 
-- GitHub: **@SEU_USUARIO**
-- LinkedIn: *(optional)*
+- GitHub: **euhenriquedev**
+- instagram: *(henriquedeolliveira)*
 
 ---
 
